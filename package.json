@@ -1,20 +1,17 @@
 {
-  "name": "com.lonfee.unity.package.processsystem",
+  "name": "com.lonfee.processsystem",
+  "version": "1.0.0",
   "displayName": "Lonfee Process System",
   "description": "Process system runtime frame for unity.",
-  "version": "1.0.0",
-  "unity": "2019.4",
-  "relatedPackages": {},
-  "repository": {
-    "type": "git",
-    "url": "git@www.lonfee.cn:/git/processsystem.git",
-    "revision": "HEAD"
-  },
   "hideInEditor": false,
+  "dependencies": {
+    
+  },
+  "keywords": [
+    
+  ],
   "author": {
     "name": "Lonfee",
     "email": "18519720472@163.com"
-  },
-  "dependencies": {
   }
 }
